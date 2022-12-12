@@ -1,0 +1,33 @@
+# Code Refactoring
+
+Horiseon were looking to improve their search engine optimization on their website.
+
+## The Goal
+
+The goal was to refactor the code to improve the accessability of the website while maintaining the origin design. Improving accessibility will enable people with disabilities to access the website by using tools such as screen readers. The benefit of this is that the website will be positioned better on google, as well as avoids any litigation from people who are unable to access the website. 
+
+The secondary goal was to improve and increase the efficiency of the pre-existing code. This includes but is not limited to, ensuring that the CSS stylesheet follows the same semantic structure of the HTML document.  
+
+### Usage
+
+To view the project, please follow the links below
+
+INSERT HERE
+
+
+
+![Example code](assets/images/code-example.jpg)
+
+### Credits:
+
+* [Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
+* [Image `alt` attributes](https://www.w3schools.com/tags/att_img_alt.asp)
+
+### License
+
+Please see the License in the Repo. 
+
+
+
+
+
