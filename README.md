@@ -12,7 +12,7 @@ The secondary goal was to improve and increase the efficiency of the pre-existin
 
 To view the project, please follow the links below
 
-INSERT HERE
+https://bcott93.github.io/Code-Refactoring/
 
 
 
