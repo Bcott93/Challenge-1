@@ -4,7 +4,7 @@ Horiseon were looking to improve their search engine optimization on their websi
 
 ## The Goal
 
-The goal was to refactor the code to improve the accessability of the website while maintaining the origin design. Improving accessibility will enable people with disabilities to access the website by using tools such as screen readers. The benefit of this is that the website will be positioned better on google, as well as avoids any litigation from people who are unable to access the website. 
+The goal was to refactor the code to improve the accessibility of the website while maintaining the original design. Improving accessibility will enable people with disabilities to access the website by using tools such as screen readers. There are multiple benefits of this, the main two are that the website will be positioned better on google and it ensures that the company can avoid any litigation from people who are unable to access the website. 
 
 The secondary goal was to improve and increase the efficiency of the pre-existing code. This includes but is not limited to, ensuring that the CSS stylesheet follows the same semantic structure of the HTML document.  
 
