@@ -1,6 +1,6 @@
 # Code Refactoring
 
-Horiseon were looking to improve the accessability of their website.
+Horiseon hired me to improve the accessability of their website.
 
 ## The Goal
 
