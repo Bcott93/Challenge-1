@@ -16,7 +16,7 @@ INSERT HERE
 
 
 
-![Example code](assets/images/code-example.jpg)
+![Example code](code-refactoring/assets/images/code-example.jpg)
 
 ### Credits:
 
