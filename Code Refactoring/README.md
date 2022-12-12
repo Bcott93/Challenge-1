@@ -1,6 +1,6 @@
 # Code Refactoring
 
-Horiseon were looking to improve their search engine optimization on their website.
+Horiseon were looking to improve the accessability of their website.
 
 ## The Goal
 
