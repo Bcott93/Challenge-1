@@ -16,7 +16,7 @@ https://bcott93.github.io/Code-Refactoring/
 
 
 
-![Example code](Code-Refactoring/code-refactoring/assets/images/code-example.jpg)
+![Example code](code-refactoring/assets/images/code-example.jpg)
 
 ### Credits:
 
